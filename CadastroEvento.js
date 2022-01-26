@@ -3,6 +3,8 @@ let idadeCadastrante = 22
 let nomeCadastrante = "Fernando"
 let Lista = ["Joao", "Augusto", "Pedro"]
 let dataAtual = new Date()
+
+
 if (dataEvento >= dataAtual) {
 
     if (idadeCadastrante >= 18) {
